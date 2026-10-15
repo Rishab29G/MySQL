@@ -1,3 +1,6 @@
+-- SELECT Clause
+
+
 CREATE TABLE employee_demographic (
     employee_id INT,
     first_name VARCHAR(50),
